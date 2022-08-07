@@ -1,0 +1,28 @@
+body{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ3o2LdtzirY7hk3VVVjJlot1vCa2qSwJKCg&usqp=CAU);
+    background-size: cover;
+    text-align: center;
+    padding: 5px;
+    height: 450px; 
+}
+h1{
+    color: goldenrod;
+}
+p{
+    color: white;
+}
+#message-el{
+    font-style: italic;
+}
+button{
+    color: #043b1d;
+    width: 150px;
+    background: goldenrod;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font-weight: bold;
+    border: none;
+    border-radius: 2px;
+    margin-bottom: 5px;
+    margin-top: 2px;
+}
